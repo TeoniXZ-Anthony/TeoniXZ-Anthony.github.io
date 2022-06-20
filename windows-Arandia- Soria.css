@@ -1,0 +1,84 @@
+body{
+    background-image: url(fondo1.jpg);
+}
+.hola{
+    text-align: center;
+    background-color: blueviolet;
+    color: plum;
+    font-family: 'Alfa Slab One', cursive;
+    text-decoration: line-through;
+    border-radius: 35px 10em 10%;
+    box-shadow: inset 15px 15px magenta;
+   font-size: 30px;
+   text-shadow: 0.1em 0.1em black;
+   word-spacing: 4pt;
+}
+    
+h1{
+    background-color: yellow;
+    color: red;
+    font-family: 'Fascinate', cursive;
+font-family: 'Indie Flower', cursive;
+border-radius: 20px 8em 8%;
+box-shadow: inset 15px 15px 20px forestgreen;
+font-size: 20px;
+text-shadow: 0.1em 0.1em black;
+
+}
+h2{
+    background-color: aqua;
+    color: blue;
+    font-family: 'Fascinate', cursive;
+font-family: 'Indie Flower', cursive;
+border-radius: 20px 8em 8%;
+box-shadow: inset 8px 8px 10px 0 yellowgreen;
+font-size: 20px;
+text-shadow: 0.1em 0.1em black;
+
+}
+h3{
+    background-color: rgb(74, 40, 153);
+    color: rgb(82, 37, 6);
+    font-family: 'Fascinate', cursive;
+font-family: 'Indie Flower', cursive;
+border-radius: 20px 8em 8%;
+box-shadow: inset 0 0 15px 10px rgb(195, 228, 8);
+font-size: 20px;
+text-shadow: 0.1em 0.1em black;
+
+}
+
+p{
+background-color: cornflowerblue;
+color: rgb(235, 22, 224);
+font-family: 'Fascinate', cursive;
+font-family: 'Indie Flower', cursive;
+border-radius: 2em 0 ;
+box-shadow: inset 15px 15px 20px forestgreen;
+font-size: 20px;
+text-shadow: 0.1em 0.1em black;
+
+}
+
+ul{
+    background-color: darkorange;
+    color: rgb(1, 27, 7);
+    font-family: 'Fascinate', cursive;
+font-family: 'Indie Flower', cursive;
+border-radius: 2em 0 ;
+box-shadow: inset 15px 15px rgba(56, 38, 56, 0.774);
+font-size: 20px;
+text-shadow: 0.1em 0.1em black;
+
+}
+
+img{
+    border: 9px;
+ width: 200px;
+ height: 200px;
+display: block;
+margin: auto;
+font-size: 20px;
+text-shadow: 0.1em 0.1em black;
+
+}
